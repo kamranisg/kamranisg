@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on to improve my Deutsch
 - 💬 Ask me about: Pytorch Lightning, Matlab, Python, Dart.
-- :evergreen_tree: What I tweet about: Mostly ongoing research in Deep learning and sometimes how beautiful this world is.
+- :evergreen_tree: What I tweet about : Mostly ongoing research in Deep learning and sometimes how beautiful this world is.
 - 📫 How to reach me: m.kamran@tum.de.
 - ⚡ Fun fact: I attempted my first ever 5K run in June 2020  at TUM Campus Marathon.
+
+ [![Twitter](https://img.shields.io/twitter/follow/kamranisg.svg?style=social&label=@kamranisg)](https://twitter.com/kamranisg)
+ 

@@ -4,9 +4,9 @@ I'm currently a Masters Student at the :school:[Technical University of Munich](
 
 This summer, I was a part of Lecture electives offered at TUM by
 
-:corn: [ Dynamic Vision and Learning Group ](https://dvl.in.tum.de/team/) on Introduction to Deep Learning [(I2DL)](https://dvl.in.tum.de/teaching/i2dl-ss20/).
+:corn: [ Dynamic Vision and Learning Lab ](https://dvl.in.tum.de/team/) on Introduction to Deep Learning [(I2DL)](https://dvl.in.tum.de/teaching/i2dl-ss20/).
 
-:corn: [Computer Vision Group](https://vision.in.tum.de/) on Multiple View Geometry  [(MVG)](https://www.youtube.com/watch?v=RDkwklFGMfo&list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4).
+:corn: [Computer Vision Lab](https://vision.in.tum.de/) on Multiple View Geometry  [(MVG)](https://www.youtube.com/watch?v=RDkwklFGMfo&list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4).
 
 :corn: My practical implementations can be found [here](https://github.com/kamranisg/CV2-Multiple-View-Geometry).
 <!--

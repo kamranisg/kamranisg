@@ -1,4 +1,4 @@
-# Hi, I'm Kamran 👋 <img align="right" width="200" height="100" src="https://raw.githubusercontent.com/kamranisg/kamranisg/master/images/images.png">
+# Hi, I'm Kamran 👋 <img align="right" width="130" height="70" src="https://raw.githubusercontent.com/kamranisg/kamranisg/master/images/images2.png">
 
 
 I'm currently a Masters Student at the :school:[Technical University of Munich](https://www.tum.de/en/), Germany who is passionate about building software to improve community. In particular, I love working on Neural Networks involving large datasets and their application in Computer Vision. I firmly believe that, a man becomes what he :apple: eats and :tophat: thinks. I try to maintain a healthy diet with regular exercises to keep myself fit. Apart from coding stuff, I love playing :tennis: Badminton and  enjoy :running: running.  Recently, I completed my A1 level of Deutsch with [TUM Sprachenzentrum](https://www.sprachenzentrum.tum.de/startseite/).

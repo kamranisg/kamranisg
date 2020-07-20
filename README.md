@@ -1,5 +1,7 @@
 # Hi, I'm Kamran 👋
 
+![Kamran](software-developer.png)
+
 I'm currently a Masters Student at the :school:[Technical University of Munich](https://www.tum.de/en/), Germany who is passionate about building software to improve community. In particular, I love working on Neural Networks involving large datasets and their application in Computer Vision. I firmly believe that, a man becomes what he :apple: eats and :tophat: thinks. I try to maintain a healthy diet with regular exercises to keep myself fit. Apart from coding stuff, I love playing :tennis: Badminton and  enjoy :running: running.  Recently, I completed my A1 level of Deutsch with [TUM Sprachenzentrum](https://www.sprachenzentrum.tum.de/startseite/).
 
 This summer, I was a part of Lecture electives offered at TUM by

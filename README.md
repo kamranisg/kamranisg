@@ -1,23 +1,25 @@
-# Hi, I'm Kamran <img align="center" width="60" height="50" src = "https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif"> <img align="right" width="130" height="50" src="https://raw.githubusercontent.com/kamranisg/kamranisg/master/images/images3.png">
+# Hi, I'm Kamran 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranisg&label=Views&color=blue&style=plastic" alt="kamranisg" /> </p>
 
 <a href="https://twitter.com/kamranisg">
-  <img align="left" alt="Kamran's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Kamran's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://linkedin.com/in/kamran-isg">
-  <img align="left" alt="Kamran's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Kamran's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://github.com/kamranisg">
-  <img align="left" alt="Kamran's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Kamran's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://www.facebook.com/kamranisg">
-  <img align="left" alt="Kamran's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Kamran's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br>
+<br>
 
 I'm currently a Masters Student at the :school:[Technical University of Munich](https://www.tum.de/en/), Germany who is passionate about building software to improve community. In particular, I love working on Neural Networks involving large datasets and their application in Computer Vision. I firmly believe that, a man becomes what he :apple: eats and :tophat: thinks. I try to maintain a healthy diet with regular exercises to keep myself fit. Apart from coding stuff, I love playing :tennis: Badminton and  enjoy :running: running.  Recently, I completed my A1 level of Deutsch with [TUM Sprachenzentrum](https://www.sprachenzentrum.tum.de/startseite/).
 

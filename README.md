@@ -1,4 +1,4 @@
-# Hi, I'm Kamran  <img align="right" width="130" height="50" src="https://raw.githubusercontent.com/kamranisg/kamranisg/master/images/images3.png">
+# Hi, I'm Kamran 👋   <img align="right" width="130" height="47" src="https://raw.githubusercontent.com/kamranisg/kamranisg/master/images/images3.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranisg&label=Views&color=blue&style=plastic" alt="kamranisg" /> </p>
 

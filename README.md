@@ -21,27 +21,14 @@
 <br>
 <br>
 
-I'm currently a Masters Student at the :school:[Technical University of Munich](https://www.tum.de/en/), Germany who is passionate about building software to improve community. In particular, I love working on Neural Networks involving large datasets and their application in Computer Vision. I firmly believe that, a man becomes what he :apple: eats and :tophat: thinks. I try to maintain a healthy diet with regular exercises to keep myself fit. Apart from coding stuff, I love playing :tennis: Badminton and  enjoy :running: running. 
-<!--
-**kamranisg/kamranisg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Masters Student at the :school:[Technical University of Munich](https://www.tum.de/en/), Germany who is passionate about building software to improve community. In particular, I have a growing interest in contributing to medicine community through the research efforts in Artificial Intelligence. Plus a big fan of Badminton game 🥸. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Computer Vision methods on 3D reconstruction
-- 🌱 I’m currently learning to improve my Deutsch 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: m.kamran@tum.de
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
  ## Some Facts
 
-
+- 💡 Chat me about: Contrastive and Self-Supervised Learning, Graph Neural Nets, Badminton Trick shots
 - 🌱 I’m currently working on to improve my Deutsch
-- 💬 Ask me about: Graph Neural Networks, Prometheus
 - :evergreen_tree: What I tweet about : Mostly ongoing research in Deep learning and sometimes how beautiful this world is.
 - 📫 How to reach me: m.kamran@tum.de.
 - ⚡ Fun fact: I attempted my first ever 5K run in June 2020  at TUM Campus Marathon.

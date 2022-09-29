@@ -29,7 +29,6 @@ I'm currently a Masters Student at the :school:[Technical University of Munich](
 
 - 💡 Chat me about: Contrastive and Self-Supervised Learning, Graph Neural Nets, Badminton Trick shots
 - 🌱 I’m currently working on to improve my Deutsch
-- :evergreen_tree: What I tweet about : Mostly ongoing research in Deep learning and sometimes how beautiful this world is.
 - 📫 How to reach me: m.kamran@tum.de.
 - ⚡ Fun fact: I attempted my first ever 5K run in June 2020  at TUM Campus Marathon.
 

@@ -1,6 +1,6 @@
 # Hi, I'm Kamran 👋   <img align="right" width="130" height="47" src="https://raw.githubusercontent.com/kamranisg/kamranisg/master/images/images3.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranisg&label=Views&color=blue&style=plastic" alt="kamranisg" /> </p>
+
 
 <a href="https://twitter.com/kamranisg">
   <img align="left" alt="Kamran's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

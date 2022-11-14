@@ -21,13 +21,13 @@
 <br>
 <br>
 
-I'm currently a Masters Student at the :school:[Technical University of Munich](https://www.tum.de/en/), Germany who is passionate about building software to improve community. In particular, I have a growing interest in contributing to medicine community through the research efforts in Artificial Intelligence. Plus a big fan of Badminton game 🥸. 
+I'm currently a Masters Student at the :school:[Technical University of Munich](https://www.tum.de/en/), Germany who is passionate about building software to improve community. In particular, I have a growing interest in contributing to medicine community through the research efforts in Artificial Intelligence. Currently I am studying ways to leverage graph into vision-language models. And i enjoy playing Badminton 🥸. 
 
 
 
  ## Some Facts
 
-- 💡 Chat me about: Contrastive and Self-Supervised Learning, Graph Neural Nets, Badminton Trick shots
+- 💡 Chat me about: Contrastive and Self-Supervised Learning, GCN'S and Graph Transformers, Badminton Trick shots
 - 🌱 I’m currently working on to improve my Deutsch
 - 📫 How to reach me: m.kamran@tum.de.
 - ⚡ Fun fact: I attempted my first ever 5K run in June 2020  at TUM Campus Marathon.

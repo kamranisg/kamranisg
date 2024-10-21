@@ -30,7 +30,6 @@ I'm currently a Masters Student at the :school:[Technical University of Munich](
 - 💡 Chat me about: Contrastive and Self-Supervised Learning, GCN'S and Graph Transformers, Badminton Trick shots
 - 🌱 I’m currently working on to improve my Deutsch
 - 📫 How to reach me: m.kamran@tum.de.
-- ⚡ Fun fact: I attempted my first ever 5K run in June 2020  at TUM Campus Marathon.
 
  [![Twitter](https://img.shields.io/twitter/follow/kamranisg.svg?style=social&label=@kamranisg)](https://twitter.com/kamranisg)
  
